@@ -42,7 +42,7 @@ public class MainActivityListaBancos
                     banco.getString("name").toString();
         }
 
-        txtListaBancos.setText("Respuesta WS Lista  \n" +  lstBancos);
+        txtListaBancos.setText("Respuesta Lista  \n" +  lstBancos);
 
     }
 }
